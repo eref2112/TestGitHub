@@ -6,5 +6,5 @@ public class KlasaStartowa {
     //Druga zmiana
     void proc(){
         System.out.println("coś tam");
-    }
+    }//komentarz
 }
